@@ -1,0 +1,127 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header
+{
+    background-color: rgba(44, 19, 8, 0.767);
+    color: white;
+}
+h1
+{
+    padding-left: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+strong
+{
+    margin-left: 1em;
+}
+.haut
+{
+    border-bottom: 1em solid white;
+    padding-bottom: 2em;
+    padding-left: 4em;
+}
+.haut1
+{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid white;
+}
+.haut2
+{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1em;
+}
+img
+{
+    width:50%;
+}
+.B1
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imB1
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.corps
+{
+    background-color: wheat;
+    border: 1px solid rgb(145, 138, 125);
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.phot
+{
+    text-align: center;
+}
+.photo
+{
+    background-color: wheat;
+    border: 1px solid rgb(145, 138, 125);
+    margin-left: 1em;
+    margin-right: 1em;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.fiche
+{
+    background-color: wheat;
+    border: 1px solid rgb(145, 138, 125);
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-left: 1em;
+    min-width: 90%;
+}
+footer
+{
+    background-color: rgba(44, 19, 8, 0.767);
+    color: white;
+}
+.bas1
+{
+    text-align: center;
+    border-bottom: 1px solid white;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+.bas2
+{
+    text-align: center;
+    border-bottom: 1px solid white;
+    padding-bottom: 1em;
+}
+.form
+{
+    border:1px solid black;
+    padding-left: 2em;
+    margin-bottom: 10em;
+    margin-top: 10em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.envo
+{
+    text-align: center;
+}
+.envoy
+{
+    background-color: wheat;
+    padding: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+.formul:hover
+{
+    text-decoration: underline;
+}
